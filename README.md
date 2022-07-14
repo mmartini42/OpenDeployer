@@ -17,6 +17,7 @@
 
 <p align="center">
 This repository will contain open source code that will allow users to configure the base of their servers
+BasicMinecraftDeployer.sh is a bash program that will install the dependencies needed to start your minecraft server
 </p>
 
 - ✍🏻 Created by Mathis Martini.
